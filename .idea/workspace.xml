@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b48d49-bf12-4908-9f83-fe9986cd324b" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03-表单.html" afterPath="$PROJECT_DIR$/03-表单.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-表单2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTML5-.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,11 +53,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-表单.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03-表单.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03-表单.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-表单2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-表单2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -81,6 +92,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/单元格合并.html" />
         <option value="$PROJECT_DIR$/03-表单.html" />
+        <option value="$PROJECT_DIR$/04-表单2.html" />
       </list>
     </option>
   </component>
@@ -108,7 +120,7 @@
     <OptionsSetting value="true" id="更新" />
     <OptionsSetting value="true" id="状态" />
     <OptionsSetting value="true" id="编辑" />
-    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="2" id="添加" />
     <ConfirmationsSetting value="0" id="移除" />
   </component>
   <component name="ProjectView">
@@ -169,12 +181,12 @@
       <option name="presentableId" value="Default" />
       <updated>1476624003721</updated>
       <workItem from="1476624005125" duration="2885000" />
-      <workItem from="1476670797851" duration="2178000" />
+      <workItem from="1476670797851" duration="2657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5234000" />
+    <option name="totallyTimeSpent" value="5713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -303,6 +315,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-表单2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding />
         </state>
       </provider>

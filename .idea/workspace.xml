@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b48d49-bf12-4908-9f83-fe9986cd324b" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-表单2.html" afterPath="$PROJECT_DIR$/04-表单2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/单元格合并.html" afterPath="$PROJECT_DIR$/单元格合并.html" />
     </list>
     <ignored path="HTML5-.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="单元格合并.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="单元格合并.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/单元格合并.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+            <state relative-caret-position="366">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -63,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04-表单2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="04-表单2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-表单2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="374">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -90,9 +89,9 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/单元格合并.html" />
         <option value="$PROJECT_DIR$/03-表单.html" />
         <option value="$PROJECT_DIR$/04-表单2.html" />
+        <option value="$PROJECT_DIR$/单元格合并.html" />
       </list>
     </option>
   </component>
@@ -182,12 +181,12 @@
       <updated>1476624003721</updated>
       <workItem from="1476624005125" duration="2885000" />
       <workItem from="1476670797851" duration="3547000" />
-      <workItem from="1476801827771" duration="277000" />
+      <workItem from="1476801827771" duration="515000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6880000" />
+    <option name="totallyTimeSpent" value="7118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -343,14 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/单元格合并.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-表单.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -361,8 +352,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04-表单2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="374">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元格合并.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
           <folding />
         </state>
       </provider>
